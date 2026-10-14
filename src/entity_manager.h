@@ -14,7 +14,7 @@
 #include "registry.h"
 
 using EntityID = size_t;
-//
+
 static constexpr EntityID InvalidEntity = std::numeric_limits<EntityID>::max();
 
 // Entity manager class template
